@@ -8,7 +8,7 @@
 
 
 
-### Hi there 👋, my name is Md.Saharia Mazumder Sabbir
+### Hi there 👋, This is Md.Saharia Mazumder Sabbir
 #### Android Developer
 
 Analytical and detail oriented Android app developer professional with stellar communication skills. Adept at bringing all team members together to reach a common goal on time and under budget. Conceptualizing app solutions with the latest technology, design theory, and a large dose of creativity. 
